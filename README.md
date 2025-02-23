@@ -1,3 +1,5 @@
+![Sachin Kumar - Full-Stack Developer](https://github.com/sachinkumarf103/sachinkumarf103/raw/main/banner.png)
+
 # Hey, I’m SAM 👋
 
 Full-stack developer with 1 year of experience crafting scalable web apps using JavaScript, React.js, Node.js, and more. Based in New Delhi, I’m passionate about clean code, seamless user experiences, and leveraging tech to solve real-world problems. Currently building at Misemind Technology Pvt. LTD.
