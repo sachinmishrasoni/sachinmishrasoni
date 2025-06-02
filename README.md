@@ -38,7 +38,7 @@ A task and note manager with light/dark mode and local storage.
 
 ## Let’s Connect
 - 📧 [sachinkumarf103@gmail.com](mailto:sachinkumarf103@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sachinmishrasoni/) | [GitHub](https://github.com/yourusername) | [Portfolio](your-portfolio-link)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sachinmishrasoni/) | [GitHub](https://github.com/sachinmishrasoni) | [Portfolio]([your-portfolio-link](https://portfolio-sachinmishrasoni.vercel.app/))  
 
 ## Fun Fact
 I once optimized a database query so fast, I had time for an extra coffee break! ☕
