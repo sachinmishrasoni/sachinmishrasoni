@@ -1,4 +1,4 @@
-![Sachin Kumar - Full-Stack Developer](https://github.com/sachinmishrasoni/sachinmishrasoni/blob/main/banner2.png)
+![Sachin Kumar - Full-Stack Developer](https://github.com/sachinmishrasoni/sachinmishrasoni/blob/main/profile-banner.png)
 
 # Hey, I’m SAM 👋
 
